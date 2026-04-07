@@ -1,7 +1,12 @@
 aid: meadwestvaco
-url: https://raw.githubusercontent.com/api-evangelist/meadwestvaco/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/meadwestvaco/refs/heads/main/apis.yml
 modified: '2026-03-24'
 apis: []
 common:
   - type: Website
     url: https://www.meadwestvaco.com
+description: >-
+  MeadWestvaco was a global packaging company providing packaging solutions to many
+  of the world's most-admired brands in the personal and beauty care, food, beverage,
+  home and garden, and other industries.
