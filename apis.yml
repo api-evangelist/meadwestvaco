@@ -8,7 +8,7 @@ description: >-
   retired. No public APIs or developer resources are documented for the legacy
   MeadWestvaco entity or for its WestRock successor.
 type: Index
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Packaging
   - Manufacturing
