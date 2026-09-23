@@ -1,7 +1,9 @@
 ---
 title: Earnings Increase Expected for MeadWestvaco
 url: https://www.forbes.com/sites/narrativescience/2014/07/28/earnings-increase-expected-for-meadwestvaco/
-date: '2026-05-25'
+published: '2014-07-28'
+date_basis: url-derived
+harvested: '2026-05-25'
 query: '"MeadWestvaco" press release artificial intelligence'
 position: 4
 source: serpapi-google

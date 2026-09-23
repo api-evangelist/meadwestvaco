@@ -1,7 +1,9 @@
 ---
 title: MeadWestVaco third-quarter earnings climb
 url: https://www.reuters.com/article/legal/government/meadwestvaco-third-quarter-earnings-climb-idUSWNAS8191/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MeadWestvaco" press release artificial intelligence'
 position: 5
 source: serpapi-google

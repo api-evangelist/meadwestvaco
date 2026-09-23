@@ -1,7 +1,9 @@
 ---
 title: Meadwestvaco Making Minor Modifications to Machine at ...
 url: https://www.industrialinfo.com/news/article/meadwestvaco-making-minor-modifications-to-machine-at-kentucky-paper-mill--48968
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"MeadWestvaco" press release artificial intelligence'
 position: 3
 source: serpapi-google
